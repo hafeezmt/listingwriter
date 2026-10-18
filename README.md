@@ -22,7 +22,7 @@ Built for the Hacktoberfest Open-Source AI Challenge (Side Hustle theme).
 2. Start Ollama and download the model:
 
         ollama serve
-        ollama pull gemma3:1b
+        ollama pull gemma4:e2b-it-qat
 
 3. In a second terminal, install and start the app:
 
@@ -33,7 +33,7 @@ Built for the Hacktoberfest Open-Source AI Challenge (Side Hustle theme).
 
 4. Open http://127.0.0.1:7860
 
-A computer with 8 GB RAM is enough for gemma3:1b. For better writing, change `MODEL` in `app.py` to `gemma3:4b` if your computer has more memory.
+A computer with 8 GB RAM is enough for gemma4:e2b-it-qat. For better writing, change `MODEL` in `app.py` to `gemma3:4b` if your computer has more memory.
 
 ## Pricing idea
 

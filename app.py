@@ -1,7 +1,7 @@
 import gradio as gr
 import ollama
 
-MODEL = "gemma3:1b"
+MODEL = "gemma4:e2b-it-qat"
 
 BASE_RULES = (
     "You are ListingWriter, a Nigerian real estate copywriter. "
